@@ -792,11 +792,11 @@ UINT ThreadDone(LPVOID lParam)
 	CString strDefectName="";
 	CString strEqpID="";
 	CString str,str1;
-	BOOL bNg = FALSE;
+	BOOL bNg = FALSE;  
 	BOOL bDefectNg = FALSE;
 	while(pView->m_bRun)
 	{		
-		if(pView->m_bAuto )
+		if(FALSE/*pView->m_bAuto*/ )
 		{
 			//save // fulln image
 			if(pView->m_bInsDone)

@@ -1,0 +1,60 @@
+15:31:11.123992 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.8_overlay 경로 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+15:31:11.129089 the IP Address Setting Ini file loading : Success
+15:31:11.133370 the ReceiveFromPLC_CSV.ini file loading : Success
+15:31:11.134760 Start CSV Save Process Thread
+15:31:11.138987 the GetFromAPI_CSV.ini file loading : Success
+15:31:11.140949 Start CSV Save Process Thread
+15:31:11.143382 Socket[0] Heart Beat Receive Check Process Wait
+15:31:11.147449 Initialize Queue Buffer : Disable
+15:31:11.148370 Initialize the Connect Status Callback : Enable
+15:31:11.148397 Initialize the Receive Callback : Enable
+15:31:11.148420 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+15:31:11.246002 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+15:31:11.248060 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+15:31:11.249231 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+15:31:11.249242 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+20:43:38.501639 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.8_overlay 경로 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+20:43:38.506572 the IP Address Setting Ini file loading : Success
+20:43:38.511225 the ReceiveFromPLC_CSV.ini file loading : Success
+20:43:38.512275 Start CSV Save Process Thread
+20:43:38.516822 the GetFromAPI_CSV.ini file loading : Success
+20:43:38.517858 Start CSV Save Process Thread
+20:43:38.520110 Socket[0] Heart Beat Receive Check Process Wait
+20:43:38.524076 Initialize Queue Buffer : Disable
+20:43:38.525006 Initialize the Connect Status Callback : Enable
+20:43:38.525027 Initialize the Receive Callback : Enable
+20:43:38.525039 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+20:43:38.645047 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+20:43:38.645067 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+20:43:38.647245 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+20:43:38.647254 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+21:07:51.699482 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.8_overlay 경로 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+21:07:51.699734 the IP Address Setting Ini file loading : Success
+21:07:51.699914 the ReceiveFromPLC_CSV.ini file loading : Success
+21:07:51.700686 Start CSV Save Process Thread
+21:07:51.700930 the GetFromAPI_CSV.ini file loading : Success
+21:07:51.701749 Start CSV Save Process Thread
+21:07:51.703506 Socket[0] Heart Beat Receive Check Process Wait
+21:07:51.706846 Initialize Queue Buffer : Disable
+21:07:51.707737 Initialize the Connect Status Callback : Enable
+21:07:51.707756 Initialize the Receive Callback : Enable
+21:07:51.707769 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+21:07:51.825888 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+21:07:51.827168 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+21:07:51.827863 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+21:07:51.828267 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+21:08:17.951611 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.8_overlay 경로 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+21:08:17.951872 the IP Address Setting Ini file loading : Success
+21:08:17.952072 the ReceiveFromPLC_CSV.ini file loading : Success
+21:08:17.952888 Start CSV Save Process Thread
+21:08:17.953120 the GetFromAPI_CSV.ini file loading : Success
+21:08:17.953985 Start CSV Save Process Thread
+21:08:17.955988 Socket[0] Heart Beat Receive Check Process Wait
+21:08:17.959315 Initialize Queue Buffer : Disable
+21:08:17.960091 Initialize the Connect Status Callback : Enable
+21:08:17.960112 Initialize the Receive Callback : Enable
+21:08:17.960130 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+21:08:18.092200 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+21:08:18.092239 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+21:08:18.093695 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+21:08:18.093715 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]

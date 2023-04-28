@@ -1,0 +1,626 @@
+09:59:19.485937 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+09:59:19.491463 the IP Address Setting Ini file loading : Success
+09:59:19.497300 the ReceiveFromPLC_CSV.ini file loading : Success
+09:59:19.498931 Start CSV Save Process Thread
+09:59:19.504317 the GetFromAPI_CSV.ini file loading : Success
+09:59:19.505940 Start CSV Save Process Thread
+09:59:19.508231 Socket[0] Heart Beat Receive Check Process Wait
+09:59:19.512838 Initialize Queue Buffer : Disable
+09:59:19.513918 Initialize the Connect Status Callback : Enable
+09:59:19.513954 Initialize the Receive Callback : Enable
+09:59:19.513980 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+09:59:19.611402 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+09:59:19.612429 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+09:59:19.613344 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+09:59:19.613735 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+10:00:59.456343 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+10:00:59.456866 the IP Address Setting Ini file loading : Success
+10:00:59.457267 the ReceiveFromPLC_CSV.ini file loading : Success
+10:00:59.458098 Start CSV Save Process Thread
+10:00:59.458431 the GetFromAPI_CSV.ini file loading : Success
+10:00:59.459512 Start CSV Save Process Thread
+10:00:59.461499 Socket[0] Heart Beat Receive Check Process Wait
+10:00:59.464941 Initialize Queue Buffer : Disable
+10:00:59.465847 Initialize the Connect Status Callback : Enable
+10:00:59.465870 Initialize the Receive Callback : Enable
+10:00:59.465889 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+10:03:41.008825 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+10:03:41.009194 the IP Address Setting Ini file loading : Success
+10:03:41.009376 the ReceiveFromPLC_CSV.ini file loading : Success
+10:03:41.010124 Start CSV Save Process Thread
+10:03:41.010325 the GetFromAPI_CSV.ini file loading : Success
+10:03:41.011167 Start CSV Save Process Thread
+10:03:41.013140 Socket[0] Heart Beat Receive Check Process Wait
+10:03:41.016291 Initialize Queue Buffer : Disable
+10:03:41.017239 Initialize the Connect Status Callback : Enable
+10:03:41.017259 Initialize the Receive Callback : Enable
+10:03:41.017276 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+10:03:41.117324 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+10:03:41.118274 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+10:03:41.119424 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+10:03:41.119431 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+10:19:34.040475 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+10:19:34.040953 the IP Address Setting Ini file loading : Success
+10:19:34.041156 the ReceiveFromPLC_CSV.ini file loading : Success
+10:19:34.041853 Start CSV Save Process Thread
+10:19:34.042209 the GetFromAPI_CSV.ini file loading : Success
+10:19:34.043179 Start CSV Save Process Thread
+10:19:34.045138 Socket[0] Heart Beat Receive Check Process Wait
+10:19:34.048258 Initialize Queue Buffer : Disable
+10:19:34.049038 Initialize the Connect Status Callback : Enable
+10:19:34.049062 Initialize the Receive Callback : Enable
+10:19:34.049081 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+10:19:34.149548 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+10:19:34.149558 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+10:19:34.151202 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+10:19:34.151208 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+10:49:04.477455 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+10:49:04.478051 the IP Address Setting Ini file loading : Success
+10:49:04.478340 the ReceiveFromPLC_CSV.ini file loading : Success
+10:49:04.479400 Start CSV Save Process Thread
+10:49:04.479684 the GetFromAPI_CSV.ini file loading : Success
+10:49:04.480647 Start CSV Save Process Thread
+10:49:04.482624 Socket[0] Heart Beat Receive Check Process Wait
+10:49:04.485909 Initialize Queue Buffer : Disable
+10:49:04.486694 Initialize the Connect Status Callback : Enable
+10:49:04.486715 Initialize the Receive Callback : Enable
+10:49:04.486732 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+10:49:04.586910 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+10:49:04.587884 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+10:49:04.589017 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+10:49:04.598049 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:11:46.624844 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:11:46.629585 the IP Address Setting Ini file loading : Success
+11:11:46.633985 the ReceiveFromPLC_CSV.ini file loading : Success
+11:11:46.635091 Start CSV Save Process Thread
+11:11:46.639236 the GetFromAPI_CSV.ini file loading : Success
+11:11:46.640315 Start CSV Save Process Thread
+11:11:46.642991 Socket[0] Heart Beat Receive Check Process Wait
+11:11:46.646313 Initialize Queue Buffer : Disable
+11:11:46.647157 Initialize the Connect Status Callback : Enable
+11:11:46.647182 Initialize the Receive Callback : Enable
+11:11:46.647202 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:11:46.747259 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:11:46.748240 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:11:46.749716 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:11:46.761335 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:12:49.349312 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:12:49.350283 the IP Address Setting Ini file loading : Success
+11:12:49.351092 the ReceiveFromPLC_CSV.ini file loading : Success
+11:12:49.352173 Start CSV Save Process Thread
+11:12:49.352702 the GetFromAPI_CSV.ini file loading : Success
+11:12:49.353666 Start CSV Save Process Thread
+11:12:49.355834 Socket[0] Heart Beat Receive Check Process Wait
+11:12:49.359397 Initialize Queue Buffer : Disable
+11:12:49.360240 Initialize the Connect Status Callback : Enable
+11:12:49.360261 Initialize the Receive Callback : Enable
+11:12:49.360276 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:12:49.459221 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:12:49.460176 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:12:49.461216 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:12:49.474090 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:14:39.682542 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:14:39.683671 the IP Address Setting Ini file loading : Success
+11:14:39.684740 the ReceiveFromPLC_CSV.ini file loading : Success
+11:14:39.685741 Start CSV Save Process Thread
+11:14:39.686603 the GetFromAPI_CSV.ini file loading : Success
+11:14:39.687393 Start CSV Save Process Thread
+11:14:39.689471 Socket[0] Heart Beat Receive Check Process Wait
+11:14:39.693055 Initialize Queue Buffer : Disable
+11:14:39.693892 Initialize the Connect Status Callback : Enable
+11:14:39.693915 Initialize the Receive Callback : Enable
+11:14:39.693932 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:14:39.794086 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:14:39.795005 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:14:39.795925 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:14:39.795940 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:16:22.307093 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:16:22.308065 the IP Address Setting Ini file loading : Success
+11:16:22.308675 the ReceiveFromPLC_CSV.ini file loading : Success
+11:16:22.309822 Start CSV Save Process Thread
+11:16:22.310524 the GetFromAPI_CSV.ini file loading : Success
+11:16:22.311505 Start CSV Save Process Thread
+11:16:22.313596 Socket[0] Heart Beat Receive Check Process Wait
+11:16:22.317262 Initialize Queue Buffer : Disable
+11:16:22.318096 Initialize the Connect Status Callback : Enable
+11:16:22.318118 Initialize the Receive Callback : Enable
+11:16:22.318134 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:16:22.418236 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:16:22.419184 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:16:22.420799 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:16:22.432586 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:19:32.677824 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:19:32.678819 the IP Address Setting Ini file loading : Success
+11:19:32.679429 the ReceiveFromPLC_CSV.ini file loading : Success
+11:19:32.680413 Start CSV Save Process Thread
+11:19:32.681321 the GetFromAPI_CSV.ini file loading : Success
+11:19:32.682393 Start CSV Save Process Thread
+11:19:32.684535 Socket[0] Heart Beat Receive Check Process Wait
+11:19:32.687564 Initialize Queue Buffer : Disable
+11:19:32.688289 Initialize the Connect Status Callback : Enable
+11:19:32.688306 Initialize the Receive Callback : Enable
+11:19:32.688318 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:19:32.786395 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:19:32.787517 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:19:32.788340 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:19:32.788701 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:21:13.785506 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:21:13.786438 the IP Address Setting Ini file loading : Success
+11:21:13.787240 the ReceiveFromPLC_CSV.ini file loading : Success
+11:21:13.788327 Start CSV Save Process Thread
+11:21:13.789397 the GetFromAPI_CSV.ini file loading : Success
+11:21:13.790468 Start CSV Save Process Thread
+11:21:13.792684 Socket[0] Heart Beat Receive Check Process Wait
+11:21:13.796072 Initialize Queue Buffer : Disable
+11:21:13.796931 Initialize the Connect Status Callback : Enable
+11:21:13.796954 Initialize the Receive Callback : Enable
+11:21:13.796971 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:21:13.895451 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:21:13.896409 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:21:13.898052 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:21:13.902170 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:22:10.276190 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:22:10.277265 the IP Address Setting Ini file loading : Success
+11:22:10.277919 the ReceiveFromPLC_CSV.ini file loading : Success
+11:22:10.279049 Start CSV Save Process Thread
+11:22:10.279691 the GetFromAPI_CSV.ini file loading : Success
+11:22:10.280758 Start CSV Save Process Thread
+11:22:10.282779 Socket[0] Heart Beat Receive Check Process Wait
+11:22:10.286596 Initialize Queue Buffer : Disable
+11:22:10.287493 Initialize the Connect Status Callback : Enable
+11:22:10.287518 Initialize the Receive Callback : Enable
+11:22:10.287535 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:22:10.386592 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:22:10.388699 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:22:10.390003 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:22:10.390011 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:25:22.273835 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:25:22.274858 the IP Address Setting Ini file loading : Success
+11:25:22.275393 the ReceiveFromPLC_CSV.ini file loading : Success
+11:25:22.276813 Start CSV Save Process Thread
+11:25:22.277730 the GetFromAPI_CSV.ini file loading : Success
+11:25:22.278835 Start CSV Save Process Thread
+11:25:22.280879 Socket[0] Heart Beat Receive Check Process Wait
+11:25:22.284265 Initialize Queue Buffer : Disable
+11:25:22.285110 Initialize the Connect Status Callback : Enable
+11:25:22.285134 Initialize the Receive Callback : Enable
+11:25:22.285151 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:25:22.384144 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:25:22.385084 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:25:22.386184 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:25:22.388542 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:27:08.249725 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:27:08.250408 the IP Address Setting Ini file loading : Success
+11:27:08.250898 the ReceiveFromPLC_CSV.ini file loading : Success
+11:27:08.251656 Start CSV Save Process Thread
+11:27:08.252189 the GetFromAPI_CSV.ini file loading : Success
+11:27:08.253174 Start CSV Save Process Thread
+11:27:08.255364 Socket[0] Heart Beat Receive Check Process Wait
+11:27:08.258426 Initialize Queue Buffer : Disable
+11:27:08.259230 Initialize the Connect Status Callback : Enable
+11:27:08.259252 Initialize the Receive Callback : Enable
+11:27:08.259268 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:27:08.358346 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:27:08.360293 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:27:08.361383 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:27:08.364929 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:29:09.824319 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:29:09.824922 the IP Address Setting Ini file loading : Success
+11:29:09.825375 the ReceiveFromPLC_CSV.ini file loading : Success
+11:29:09.833448 Start CSV Save Process Thread
+11:29:09.834411 the GetFromAPI_CSV.ini file loading : Success
+11:29:09.835438 Start CSV Save Process Thread
+11:29:09.857073 Socket[0] Heart Beat Receive Check Process Wait
+11:29:09.888645 Initialize Queue Buffer : Disable
+11:29:09.899251 Initialize the Connect Status Callback : Enable
+11:29:09.899276 Initialize the Receive Callback : Enable
+11:29:09.899294 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:29:09.988480 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:29:09.995002 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:29:09.999251 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:29:09.999730 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:31:18.398738 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:31:18.399789 the IP Address Setting Ini file loading : Success
+11:31:18.400633 the ReceiveFromPLC_CSV.ini file loading : Success
+11:31:18.401824 Start CSV Save Process Thread
+11:31:18.402450 the GetFromAPI_CSV.ini file loading : Success
+11:31:18.403281 Start CSV Save Process Thread
+11:31:18.405343 Socket[0] Heart Beat Receive Check Process Wait
+11:31:18.408705 Initialize Queue Buffer : Disable
+11:31:18.409569 Initialize the Connect Status Callback : Enable
+11:31:18.409591 Initialize the Receive Callback : Enable
+11:31:18.409607 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:31:18.507476 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:31:18.509429 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:31:18.510794 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:31:18.518386 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:33:58.634213 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:33:58.634845 the IP Address Setting Ini file loading : Success
+11:33:58.635386 the ReceiveFromPLC_CSV.ini file loading : Success
+11:33:58.636119 Start CSV Save Process Thread
+11:33:58.636796 the GetFromAPI_CSV.ini file loading : Success
+11:33:58.637961 Start CSV Save Process Thread
+11:33:58.640206 Socket[0] Heart Beat Receive Check Process Wait
+11:33:58.643590 Initialize Queue Buffer : Disable
+11:33:58.644600 Initialize the Connect Status Callback : Enable
+11:33:58.644627 Initialize the Receive Callback : Enable
+11:33:58.644644 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:33:58.744766 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:33:58.744776 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:33:58.746293 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:33:58.759386 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:50:01.590363 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:50:01.590644 the IP Address Setting Ini file loading : Success
+11:50:01.590864 the ReceiveFromPLC_CSV.ini file loading : Success
+11:50:01.591651 Start CSV Save Process Thread
+11:50:01.591899 the GetFromAPI_CSV.ini file loading : Success
+11:50:01.592737 Start CSV Save Process Thread
+11:50:01.594717 Socket[0] Heart Beat Receive Check Process Wait
+11:50:01.598336 Initialize Queue Buffer : Disable
+11:50:01.599115 Initialize the Connect Status Callback : Enable
+11:50:01.599135 Initialize the Receive Callback : Enable
+11:50:01.599151 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:50:01.698364 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:50:01.700342 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:50:01.702008 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:50:01.724167 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:51:39.361153 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:51:39.361363 the IP Address Setting Ini file loading : Success
+11:51:39.361509 the ReceiveFromPLC_CSV.ini file loading : Success
+11:51:39.362204 Start CSV Save Process Thread
+11:51:39.362504 the GetFromAPI_CSV.ini file loading : Success
+11:51:39.363412 Start CSV Save Process Thread
+11:51:39.365205 Socket[0] Heart Beat Receive Check Process Wait
+11:51:39.368253 Initialize Queue Buffer : Disable
+11:51:39.369146 Initialize the Connect Status Callback : Enable
+11:51:39.369164 Initialize the Receive Callback : Enable
+11:51:39.369179 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:51:39.469588 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:51:39.469597 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:51:39.470972 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:51:39.480475 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:53:01.339923 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:53:01.340192 the IP Address Setting Ini file loading : Success
+11:53:01.340335 the ReceiveFromPLC_CSV.ini file loading : Success
+11:53:01.341203 Start CSV Save Process Thread
+11:53:01.341398 the GetFromAPI_CSV.ini file loading : Success
+11:53:01.342330 Start CSV Save Process Thread
+11:53:01.344083 Socket[0] Heart Beat Receive Check Process Wait
+11:53:01.347179 Initialize Queue Buffer : Disable
+11:53:01.348055 Initialize the Connect Status Callback : Enable
+11:53:01.348094 Initialize the Receive Callback : Enable
+11:53:01.348124 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:53:01.449093 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:53:01.449103 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:53:01.450664 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:53:01.475249 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:54:30.532037 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:54:30.532331 the IP Address Setting Ini file loading : Success
+11:54:30.532531 the ReceiveFromPLC_CSV.ini file loading : Success
+11:54:30.533290 Start CSV Save Process Thread
+11:54:30.533558 the GetFromAPI_CSV.ini file loading : Success
+11:54:30.534732 Start CSV Save Process Thread
+11:54:30.537886 Socket[0] Heart Beat Receive Check Process Wait
+11:54:30.541260 Initialize Queue Buffer : Disable
+11:54:30.542020 Initialize the Connect Status Callback : Enable
+11:54:30.542040 Initialize the Receive Callback : Enable
+11:54:30.542056 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:54:30.642519 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:54:30.642529 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:54:30.644137 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:54:30.667075 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:56:55.594391 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:56:55.594703 the IP Address Setting Ini file loading : Success
+11:56:55.594902 the ReceiveFromPLC_CSV.ini file loading : Success
+11:56:55.595702 Start CSV Save Process Thread
+11:56:55.595978 the GetFromAPI_CSV.ini file loading : Success
+11:56:55.597062 Start CSV Save Process Thread
+11:56:55.599062 Socket[0] Heart Beat Receive Check Process Wait
+11:56:55.602425 Initialize Queue Buffer : Disable
+11:56:55.603257 Initialize the Connect Status Callback : Enable
+11:56:55.603285 Initialize the Receive Callback : Enable
+11:56:55.603304 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:56:55.702173 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:56:55.703105 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:56:55.703980 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:56:55.726868 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:58:22.558324 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:58:22.558646 the IP Address Setting Ini file loading : Success
+11:58:22.558854 the ReceiveFromPLC_CSV.ini file loading : Success
+11:58:22.559618 Start CSV Save Process Thread
+11:58:22.559864 the GetFromAPI_CSV.ini file loading : Success
+11:58:22.560830 Start CSV Save Process Thread
+11:58:22.563040 Socket[0] Heart Beat Receive Check Process Wait
+11:58:22.567018 Initialize Queue Buffer : Disable
+11:58:22.567933 Initialize the Connect Status Callback : Enable
+11:58:22.567959 Initialize the Receive Callback : Enable
+11:58:22.567987 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:58:22.666718 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:58:22.667691 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:58:22.668778 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:58:22.668787 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+13:45:21.510327 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+13:45:21.510765 the IP Address Setting Ini file loading : Success
+13:45:21.510957 the ReceiveFromPLC_CSV.ini file loading : Success
+13:45:21.511975 Start CSV Save Process Thread
+13:45:21.512214 the GetFromAPI_CSV.ini file loading : Success
+13:45:21.513318 Start CSV Save Process Thread
+13:45:21.515454 Socket[0] Heart Beat Receive Check Process Wait
+13:45:21.519122 Initialize Queue Buffer : Disable
+13:45:21.520033 Initialize the Connect Status Callback : Enable
+13:45:21.520056 Initialize the Receive Callback : Enable
+13:45:21.520076 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+13:45:21.617749 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+13:45:21.619692 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+13:45:21.619771 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+13:45:21.619867 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+13:47:09.127269 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+13:47:09.127571 the IP Address Setting Ini file loading : Success
+13:47:09.127808 the ReceiveFromPLC_CSV.ini file loading : Success
+13:47:09.128599 Start CSV Save Process Thread
+13:47:09.128823 the GetFromAPI_CSV.ini file loading : Success
+13:47:09.129798 Start CSV Save Process Thread
+13:47:09.132264 Socket[0] Heart Beat Receive Check Process Wait
+13:47:09.135958 Initialize Queue Buffer : Disable
+13:47:09.136757 Initialize the Connect Status Callback : Enable
+13:47:09.136780 Initialize the Receive Callback : Enable
+13:47:09.136800 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+13:47:09.235566 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+13:47:09.236550 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+13:47:09.237763 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+13:47:09.255766 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+13:51:24.179115 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+13:51:24.179392 the IP Address Setting Ini file loading : Success
+13:51:24.179629 the ReceiveFromPLC_CSV.ini file loading : Success
+13:51:24.180374 Start CSV Save Process Thread
+13:51:24.180614 the GetFromAPI_CSV.ini file loading : Success
+13:51:24.181561 Start CSV Save Process Thread
+13:51:24.183927 Socket[0] Heart Beat Receive Check Process Wait
+13:51:24.187600 Initialize Queue Buffer : Disable
+13:51:24.188453 Initialize the Connect Status Callback : Enable
+13:51:24.188463 Initialize the Receive Callback : Enable
+13:51:24.188472 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+13:51:24.286176 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+13:51:24.288125 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+13:51:24.289072 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+13:51:24.304760 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+13:57:55.985791 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+13:57:55.986126 the IP Address Setting Ini file loading : Success
+13:57:55.986295 the ReceiveFromPLC_CSV.ini file loading : Success
+13:57:55.987251 Start CSV Save Process Thread
+13:57:55.987476 the GetFromAPI_CSV.ini file loading : Success
+13:57:55.988371 Start CSV Save Process Thread
+13:57:55.990162 Socket[0] Heart Beat Receive Check Process Wait
+13:57:55.993282 Initialize Queue Buffer : Disable
+13:57:55.994062 Initialize the Connect Status Callback : Enable
+13:57:55.994085 Initialize the Receive Callback : Enable
+13:57:55.994102 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+13:57:56.091718 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+13:57:56.092822 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+13:57:56.093639 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+13:57:56.093982 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:02:22.764120 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:02:22.764313 the IP Address Setting Ini file loading : Success
+14:02:22.764477 the ReceiveFromPLC_CSV.ini file loading : Success
+14:02:22.765191 Start CSV Save Process Thread
+14:02:22.765408 the GetFromAPI_CSV.ini file loading : Success
+14:02:22.766360 Start CSV Save Process Thread
+14:02:22.768421 Socket[0] Heart Beat Receive Check Process Wait
+14:02:22.771841 Initialize Queue Buffer : Disable
+14:02:22.772622 Initialize the Connect Status Callback : Enable
+14:02:22.772644 Initialize the Receive Callback : Enable
+14:02:22.772662 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:02:22.873036 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:02:22.873051 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:02:22.874094 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:02:22.891704 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:11:23.740256 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:11:23.740588 the IP Address Setting Ini file loading : Success
+14:11:23.740805 the ReceiveFromPLC_CSV.ini file loading : Success
+14:11:23.741507 Start CSV Save Process Thread
+14:11:23.741719 the GetFromAPI_CSV.ini file loading : Success
+14:11:23.742685 Start CSV Save Process Thread
+14:11:23.744686 Socket[0] Heart Beat Receive Check Process Wait
+14:11:23.747580 Initialize Queue Buffer : Disable
+14:11:23.748256 Initialize the Connect Status Callback : Enable
+14:11:23.748273 Initialize the Receive Callback : Enable
+14:11:23.748288 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:11:23.847837 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:11:23.847845 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:11:23.848808 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:11:23.848816 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:13:23.581565 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:13:23.581856 the IP Address Setting Ini file loading : Success
+14:13:23.582069 the ReceiveFromPLC_CSV.ini file loading : Success
+14:13:23.582942 Start CSV Save Process Thread
+14:13:23.583235 the GetFromAPI_CSV.ini file loading : Success
+14:13:23.584501 Start CSV Save Process Thread
+14:13:23.586813 Socket[0] Heart Beat Receive Check Process Wait
+14:13:23.589854 Initialize Queue Buffer : Disable
+14:13:23.590585 Initialize the Connect Status Callback : Enable
+14:13:23.590601 Initialize the Receive Callback : Enable
+14:13:23.590614 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:13:23.689826 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:13:23.691758 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:13:23.692866 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:13:23.708308 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:17:00.016249 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:17:00.016464 the IP Address Setting Ini file loading : Success
+14:17:00.016627 the ReceiveFromPLC_CSV.ini file loading : Success
+14:17:00.017883 Start CSV Save Process Thread
+14:17:00.018154 the GetFromAPI_CSV.ini file loading : Success
+14:17:00.019309 Start CSV Save Process Thread
+14:17:00.022020 Socket[0] Heart Beat Receive Check Process Wait
+14:17:00.027092 Initialize Queue Buffer : Disable
+14:17:00.028057 Initialize the Connect Status Callback : Enable
+14:17:00.028075 Initialize the Receive Callback : Enable
+14:17:00.028091 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:17:00.125969 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:17:00.127890 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:17:00.128876 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:17:00.133986 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:23:18.809972 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:23:18.810258 the IP Address Setting Ini file loading : Success
+14:23:18.810529 the ReceiveFromPLC_CSV.ini file loading : Success
+14:23:18.811313 Start CSV Save Process Thread
+14:23:18.811632 the GetFromAPI_CSV.ini file loading : Success
+14:23:18.812725 Start CSV Save Process Thread
+14:23:18.814539 Socket[0] Heart Beat Receive Check Process Wait
+14:23:18.817766 Initialize Queue Buffer : Disable
+14:23:18.818665 Initialize the Connect Status Callback : Enable
+14:23:18.818684 Initialize the Receive Callback : Enable
+14:23:18.818701 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:23:18.918846 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:23:18.918856 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:23:18.920146 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:23:18.935460 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:29:25.473153 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:29:25.473464 the IP Address Setting Ini file loading : Success
+14:29:25.473667 the ReceiveFromPLC_CSV.ini file loading : Success
+14:29:25.474431 Start CSV Save Process Thread
+14:29:25.474693 the GetFromAPI_CSV.ini file loading : Success
+14:29:25.475624 Start CSV Save Process Thread
+14:29:25.477868 Socket[0] Heart Beat Receive Check Process Wait
+14:29:25.481231 Initialize Queue Buffer : Disable
+14:29:25.482067 Initialize the Connect Status Callback : Enable
+14:29:25.482088 Initialize the Receive Callback : Enable
+14:29:25.482106 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:29:25.582435 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:29:25.582447 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:29:25.583408 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:29:25.592100 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:29:57.803423 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:29:57.803731 the IP Address Setting Ini file loading : Success
+14:29:57.803940 the ReceiveFromPLC_CSV.ini file loading : Success
+14:29:57.804786 Start CSV Save Process Thread
+14:29:57.805265 the GetFromAPI_CSV.ini file loading : Success
+14:29:57.806167 Start CSV Save Process Thread
+14:29:57.808149 Socket[0] Heart Beat Receive Check Process Wait
+14:29:57.811442 Initialize Queue Buffer : Disable
+14:29:57.812325 Initialize the Connect Status Callback : Enable
+14:29:57.812352 Initialize the Receive Callback : Enable
+14:29:57.812371 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:29:57.911762 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:29:57.912744 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:29:57.913974 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:29:57.926936 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:31:28.873913 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:31:28.874223 the IP Address Setting Ini file loading : Success
+14:31:28.874419 the ReceiveFromPLC_CSV.ini file loading : Success
+14:31:28.875232 Start CSV Save Process Thread
+14:31:28.875540 the GetFromAPI_CSV.ini file loading : Success
+14:31:28.876773 Start CSV Save Process Thread
+14:31:28.878839 Socket[0] Heart Beat Receive Check Process Wait
+14:31:28.882512 Initialize Queue Buffer : Disable
+14:31:28.883331 Initialize the Connect Status Callback : Enable
+14:31:28.883353 Initialize the Receive Callback : Enable
+14:31:28.883371 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:31:28.982591 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:31:28.983533 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:31:28.984997 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:31:28.999188 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:33:58.724727 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:33:58.725100 the IP Address Setting Ini file loading : Success
+14:33:58.725269 the ReceiveFromPLC_CSV.ini file loading : Success
+14:33:58.726598 Start CSV Save Process Thread
+14:33:58.726969 the GetFromAPI_CSV.ini file loading : Success
+14:33:58.727825 Start CSV Save Process Thread
+14:33:58.729684 Socket[0] Heart Beat Receive Check Process Wait
+14:33:58.732681 Initialize Queue Buffer : Disable
+14:33:58.733646 Initialize the Connect Status Callback : Enable
+14:33:58.733670 Initialize the Receive Callback : Enable
+14:33:58.733698 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:33:58.832105 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:33:58.834108 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:33:58.835263 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:33:58.847336 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:37:55.168137 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:37:55.168425 the IP Address Setting Ini file loading : Success
+14:37:55.168606 the ReceiveFromPLC_CSV.ini file loading : Success
+14:37:55.169334 Start CSV Save Process Thread
+14:37:55.169570 the GetFromAPI_CSV.ini file loading : Success
+14:37:55.170514 Start CSV Save Process Thread
+14:37:55.172844 Socket[0] Heart Beat Receive Check Process Wait
+14:38:03.208349 Initialize Queue Buffer : Disable
+14:38:03.209444 Initialize the Connect Status Callback : Enable
+14:38:03.209456 Initialize the Receive Callback : Enable
+14:38:03.209466 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:38:10.514359 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:38:10.514370 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:38:32.597871 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:38:32.597878 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:47:09.033491 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:47:09.033832 the IP Address Setting Ini file loading : Success
+14:47:09.034048 the ReceiveFromPLC_CSV.ini file loading : Success
+14:47:09.035117 Start CSV Save Process Thread
+14:47:09.035461 the GetFromAPI_CSV.ini file loading : Success
+14:47:09.036671 Start CSV Save Process Thread
+14:47:09.039697 Socket[0] Heart Beat Receive Check Process Wait
+14:47:09.043435 Initialize Queue Buffer : Disable
+14:47:09.044442 Initialize the Connect Status Callback : Enable
+14:47:09.044477 Initialize the Receive Callback : Enable
+14:47:09.044528 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:47:11.415016 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:47:11.416953 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:47:11.417847 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:47:11.445302 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:49:12.599623 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:49:12.599912 the IP Address Setting Ini file loading : Success
+14:49:12.600120 the ReceiveFromPLC_CSV.ini file loading : Success
+14:49:12.600825 Start CSV Save Process Thread
+14:49:12.601085 the GetFromAPI_CSV.ini file loading : Success
+14:49:12.601952 Start CSV Save Process Thread
+14:49:12.603746 Socket[0] Heart Beat Receive Check Process Wait
+14:49:12.606791 Initialize Queue Buffer : Disable
+14:49:12.607531 Initialize the Connect Status Callback : Enable
+14:49:12.607546 Initialize the Receive Callback : Enable
+14:49:12.607562 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:49:12.707708 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:49:12.708591 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:49:12.708867 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:49:12.708872 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:50:42.719887 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:50:42.720186 the IP Address Setting Ini file loading : Success
+14:50:42.720432 the ReceiveFromPLC_CSV.ini file loading : Success
+14:50:42.721396 Start CSV Save Process Thread
+14:50:42.721686 the GetFromAPI_CSV.ini file loading : Success
+14:50:42.722723 Start CSV Save Process Thread
+14:50:42.724777 Socket[0] Heart Beat Receive Check Process Wait
+14:50:42.728252 Initialize Queue Buffer : Disable
+14:50:42.729072 Initialize the Connect Status Callback : Enable
+14:50:42.729094 Initialize the Receive Callback : Enable
+14:50:42.729113 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:50:42.826697 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:50:42.828063 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:50:42.828641 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:50:42.829091 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:50:56.975675 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:50:56.975976 the IP Address Setting Ini file loading : Success
+14:50:56.976180 the ReceiveFromPLC_CSV.ini file loading : Success
+14:50:56.976979 Start CSV Save Process Thread
+14:50:56.977315 the GetFromAPI_CSV.ini file loading : Success
+14:50:56.978430 Start CSV Save Process Thread
+14:50:56.980468 Socket[0] Heart Beat Receive Check Process Wait
+14:50:56.983985 Initialize Queue Buffer : Disable
+14:50:56.984846 Initialize the Connect Status Callback : Enable
+14:50:56.984868 Initialize the Receive Callback : Enable
+14:50:56.984881 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:50:57.084920 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:50:57.085860 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:50:57.087068 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+14:50:57.087076 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:54:25.584012 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.6_표면json추가중\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+14:54:25.584273 the IP Address Setting Ini file loading : Success
+14:54:25.584463 the ReceiveFromPLC_CSV.ini file loading : Success
+14:54:25.585211 Start CSV Save Process Thread
+14:54:25.585419 the GetFromAPI_CSV.ini file loading : Success
+14:54:25.586291 Start CSV Save Process Thread
+14:54:25.588110 Socket[0] Heart Beat Receive Check Process Wait
+14:54:25.591119 Initialize Queue Buffer : Disable
+14:54:25.591883 Initialize the Connect Status Callback : Enable
+14:54:25.591899 Initialize the Receive Callback : Enable
+14:54:25.591913 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+14:54:25.691440 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+14:54:25.691467 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+14:54:25.692381 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+14:54:25.692417 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]

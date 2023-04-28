@@ -1,0 +1,13 @@
+{
+  "INFERENCE_SERVER_PATH": "C:/inferWIN",
+  "WORKFLOW_PATH": "C:/inferWIN/USER_LIBRARY/WORKFLOW",
+  "MODEL_PATH": "C:/inferWIN/USER_LIBRARY/MODEL",
+  "FACTORY_CODE": "OC_CB",
+  "EQUIP_CODE": [
+    "CSW_L09"
+  ],
+  "WORKFLOW_ID": [
+    "400"
+  ],
+  "IMAGE_PATH": ""
+}

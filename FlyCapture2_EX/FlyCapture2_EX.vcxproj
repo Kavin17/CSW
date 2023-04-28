@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{C44A5F01-1B0E-4FED-B600-13E3EA852CAE}</ProjectGuid>
+    <RootNamespace>FlyCapture2_EX</RootNamespace>
+    <Keyword>MFCProj</Keyword>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <CLRSupport>false</CLRSupport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <CLRSupport>false</CLRSupport>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>14.0.25431.1</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+    <TargetName>HoleVision</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <TargetName>HoleVision</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <TargetName>HoleVision</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>false</ValidateAllParameters>
+    </Midl>
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(PYLON_DEV_DIR)\include;C:\Program Files %28x86%29\EzSoftware UC\AXL%28Library%29\C, C++;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <PrecompiledHeader />
+      <PrecompiledHeaderFile>StdAfx.h</PrecompiledHeaderFile>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0412</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>ComCtl32.lib;jpeg.lib;AXTLIB.lib;NeSerial.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)HoleVision.exe</OutputFile>
+      <AdditionalLibraryDirectories>$(PYLON_DEV_DIR)\lib\Win32;C:\Program Files %28x86%29\EzSoftware UC\AXL%28Library%29\Library\32Bit;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <UACExecutionLevel>AsInvoker</UACExecutionLevel>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;libcmt.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention />
+      <TargetMachine>MachineX86</TargetMachine>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+    </Midl>
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(PYLON_DEV_DIR)\include;C:\Program Files %28x86%29\EzSoftware UC\AXL%28Library%29\C, C++;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <PrecompiledHeaderFile>StdAfx.h</PrecompiledHeaderFile>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0412</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>ComCtl32.lib;AXTLIB.lib;NeSerial.lib;turbojpeg.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)HoleVision.exe</OutputFile>
+      <AdditionalLibraryDirectories>$(PYLON_DEV_DIR)\lib\x64;C:\Program Files %28x86%29\EzSoftware UC\AXL%28Library%29\Library\64Bit;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <UACExecutionLevel>AsInvoker</UACExecutionLevel>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;libcmt.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention>
+      </DataExecutionPrevention>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>false</ValidateAllParameters>
+    </Midl>
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0412</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>Jai_Factory.lib;transceiverx.lib;ComCtl32.lib;jpeg.lib;AXTLIB.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)HoleVision.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention />
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+    </Midl>
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <AdditionalIncludeDirectories>$(PYLON_DEV_DIR)\include;C:\Program Files %28x86%29\EzSoftware UC\AXL%28Library%29\C, C++;$(SolutionDir)rapidjson;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <FunctionLevelLinking>
+      </FunctionLevelLinking>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0412</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <AdditionalDependencies>transceiverx.lib;ComCtl32.lib;turbojpeg.lib;AXTLIB.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)HoleVision.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention>
+      </DataExecutionPrevention>
+      <AdditionalLibraryDirectories>$(PYLON_DEV_DIR)\lib\x64;C:\Program Files %28x86%29\EzSoftware UC\AXL%28Library%29\Library\64Bit;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="BtnST.cpp" />
+    <ClCompile Include="CameraDisplay.cpp" />
+    <ClCompile Include="CellData.cpp" />
+    <ClCompile Include="CgDisplay.cpp" />
+    <ClCompile Include="CgIOAxt.cpp" />
+    <ClCompile Include="CgLight.cpp" />
+    <ClCompile Include="CgMulti.cpp" />
+    <ClCompile Include="CgProcess.cpp" />
+    <ClCompile Include="CgProject.cpp" />
+    <ClCompile Include="CircleFitting.cpp" />
+    <ClCompile Include="Connect.cpp" />
+    <ClCompile Include="CpuUsage.cpp" />
+    <ClCompile Include="cttext.cpp" />
+    <ClCompile Include="DlgAiView.cpp" />
+    <ClCompile Include="DlgCode.cpp" />
+    <ClCompile Include="DlgSet.cpp" />
+    <ClCompile Include="DrawBadState.cpp" />
+    <ClCompile Include="Fchain.cpp" />
+    <ClCompile Include="FindCircle.cpp" />
+    <ClCompile Include="FlyCapture2_EX.cpp" />
+    <ClCompile Include="FlyCapture2_EXDlg.cpp" />
+    <ClCompile Include="font.cpp" />
+    <ClCompile Include="FormTab1.cpp" />
+    <ClCompile Include="FormTab2.cpp" />
+    <ClCompile Include="FormTab3.cpp" />
+    <ClCompile Include="FormTab4.cpp" />
+    <ClCompile Include="FormTab5.cpp" />
+    <ClCompile Include="GigECamera.cpp" />
+    <ClCompile Include="ImageFormat.cpp" />
+    <ClCompile Include="ImagePixel.cpp" />
+    <ClCompile Include="Img.cpp" />
+    <ClCompile Include="ini.cpp" />
+    <ClCompile Include="jsoncpp.cpp" />
+    <ClCompile Include="Label1.cpp" />
+    <ClCompile Include="LightCtrlComm.cpp" />
+    <ClCompile Include="LightMap.cpp" />
+    <ClCompile Include="LoadVTECSDll.cpp" />
+    <ClCompile Include="ModelCount.cpp" />
+    <ClCompile Include="PassWord.cpp" />
+    <ClCompile Include="PatMat.cpp" />
+    <ClCompile Include="picture.cpp" />
+    <ClCompile Include="SocCom.cpp" />
+    <ClCompile Include="SocServer.cpp" />
+    <ClCompile Include="SocService.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="WeakWeldDlg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\[단면02]표리반전_Lightcontrol - 복사본\FlyCapture2_EX\NeProtocol.h" />
+    <ClInclude Include="..\..\[단면02]표리반전_Lightcontrol - 복사본\FlyCapture2_EX\WinSerial.h" />
+    <ClInclude Include="AXD.h" />
+    <ClInclude Include="AXL.h" />
+    <ClInclude Include="BtnST.h" />
+    <ClInclude Include="CameraDisplay.h" />
+    <ClInclude Include="CellData.h" />
+    <ClInclude Include="CgDisplay.h" />
+    <ClInclude Include="CgIOAxt.h" />
+    <ClInclude Include="CgLight.h" />
+    <ClInclude Include="CgMulti.h" />
+    <ClInclude Include="CgProcess.h" />
+    <ClInclude Include="CgProject.h" />
+    <ClInclude Include="CircleFitting.h" />
+    <ClInclude Include="Connect.h" />
+    <ClInclude Include="CpuUsage.h" />
+    <ClInclude Include="cttext.h" />
+    <ClInclude Include="define.h" />
+    <ClInclude Include="DefineDllFunctionPoint.h" />
+    <ClInclude Include="DlgAiView.h" />
+    <ClInclude Include="DlgCode.h" />
+    <ClInclude Include="DlgSet.h" />
+    <ClInclude Include="DrawBadState.h" />
+    <ClInclude Include="EGIOT.h" />
+    <ClInclude Include="Fchain.h" />
+    <ClInclude Include="FchainDll.h" />
+    <ClInclude Include="FindCircle.h" />
+    <ClInclude Include="FlyCapture2_EX.h" />
+    <ClInclude Include="FlyCapture2_EXDlg.h" />
+    <ClInclude Include="font.h" />
+    <ClInclude Include="FormTab1.h" />
+    <ClInclude Include="FormTab2.h" />
+    <ClInclude Include="FormTab3.h" />
+    <ClInclude Include="FormTab4.h" />
+    <ClInclude Include="FormTab5.h" />
+    <ClInclude Include="GigECamera.h" />
+    <ClInclude Include="ImageFormat.h" />
+    <ClInclude Include="ImagePixel.h" />
+    <ClInclude Include="Img.h" />
+    <ClInclude Include="ini.h" />
+    <ClInclude Include="JCONFIG.H" />
+    <ClInclude Include="JMORECFG.H" />
+    <ClInclude Include="JPEGLIB.H" />
+    <ClInclude Include="json\json-forwards.h" />
+    <ClInclude Include="json\json.h" />
+    <ClInclude Include="Label1.h" />
+    <ClInclude Include="LightCtrlComm.h" />
+    <ClInclude Include="LightMap.h" />
+    <ClInclude Include="LoadVTECSDll.h" />
+    <ClInclude Include="MemDC.h" />
+    <ClInclude Include="ModelCount.h" />
+    <ClInclude Include="PassWord.h" />
+    <ClInclude Include="PatMat.h" />
+    <ClInclude Include="PerfCounters.h" />
+    <ClInclude Include="picture.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="SimpleIUnknown.h" />
+    <ClInclude Include="SocCom.h" />
+    <ClInclude Include="SocServer.h" />
+    <ClInclude Include="SocService.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="turbojpeg.h" />
+    <ClInclude Include="WeakWeldDlg.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\1.bmp" />
+    <Image Include="bmp\1.bmp" />
+    <Image Include="bmp\2.bmp" />
+    <Image Include="bmp\BTN_exit_1.bmp" />
+    <Image Include="bmp\BTN_exit_2.bmp" />
+    <Image Include="bmp\BTN_folding_1.bmp" />
+    <Image Include="bmp\BTN_folding_2.bmp" />
+    <Image Include="bmp\BTN_histogram.bmp" />
+    <Image Include="bmp\BTN_image.bmp" />
+    <Image Include="bmp\BTN_imagesave.bmp" />
+    <Image Include="bmp\BTN_model_1.bmp" />
+    <Image Include="bmp\BTN_model_2.bmp" />
+    <Image Include="bmp\BTN_Reset.bmp" />
+    <Image Include="bmp\BTN_reset_1.bmp" />
+    <Image Include="bmp\BTN_reset_2.bmp" />
+    <Image Include="bmp\BTN_setting_1.bmp" />
+    <Image Include="bmp\BTN_setting_2.bmp" />
+    <Image Include="bmp\BTN_start_1.bmp" />
+    <Image Include="bmp\BTN_start_2.bmp" />
+    <Image Include="bmp\BTN_stop_1.bmp" />
+    <Image Include="bmp\BTN_stop_2.bmp" />
+    <Image Include="bmp\BTN_배출상태_1.bmp" />
+    <Image Include="bmp\BTN_배출상태_2.bmp" />
+    <Image Include="bmp\BTN_배출정지_1.bmp" />
+    <Image Include="bmp\BTN_배출정지_2.bmp" />
+    <Image Include="bmp\LOGO.bmp" />
+    <Image Include="bmp\검사시작.bmp" />
+    <Image Include="bmp\모델.bmp" />
+    <Image Include="bmp\종료.bmp" />
+    <Image Include="bmp\환경설정.bmp" />
+    <Image Include="res\FlyCapture2_EX.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="FlyCapture2_EX.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AXL.dll" />
+    <None Include="DlgBarcode.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="res\FlyCapture2_EX.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="AXL.lib" />
+    <Library Include="AXTLIB.lib" />
+    <Library Include="EGIOT.lib" />
+    <Library Include="FChainDLL.lib" />
+    <Library Include="Jpeg.lib" />
+    <Library Include="Mil.lib" />
+    <Library Include="NeSerial.lib" />
+    <Library Include="WS2_32.LIB" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="FlyCapture2_EX.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

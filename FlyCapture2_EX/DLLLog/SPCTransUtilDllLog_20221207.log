@@ -1,0 +1,524 @@
+00:16:48.900096 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.11_삼익테스트\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+00:16:48.904058 the IP Address Setting Ini file loading : Success
+00:16:48.906982 the ReceiveFromPLC_CSV.ini file loading : Success
+00:16:48.907810 Start CSV Save Process Thread
+00:16:48.910687 the GetFromAPI_CSV.ini file loading : Success
+00:16:48.911381 Start CSV Save Process Thread
+00:16:48.912622 Socket[0] Heart Beat Receive Check Process Wait
+00:16:48.916203 Initialize Queue Buffer : Disable
+00:16:48.917148 Initialize the Connect Status Callback : Enable
+00:16:48.917167 Initialize the Receive Callback : Enable
+00:16:48.917196 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+00:16:49.016726 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+00:16:49.018179 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+00:16:49.018695 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+00:16:49.018795 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+10:21:59.387656 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#02 Version[1.2.0.15] <<<<<<<<
+10:21:59.391424 the IP Address Setting Ini file loading : Success
+10:21:59.394453 the ReceiveFromPLC_CSV.ini file loading : Success
+10:21:59.395141 Start CSV Save Process Thread
+10:21:59.397930 the GetFromAPI_CSV.ini file loading : Success
+10:21:59.398581 Start CSV Save Process Thread
+10:21:59.399916 Socket[0] Heart Beat Receive Check Process Wait
+10:21:59.402563 Initialize Queue Buffer : Disable
+10:21:59.403064 Initialize the Connect Status Callback : Enable
+10:21:59.403087 Initialize the Receive Callback : Enable
+10:21:59.403116 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+10:21:59.504011 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+10:21:59.504018 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+10:21:59.504596 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+10:21:59.504605 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+10:21:59.504616 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+10:21:59.504621 Called Close Request Flag in CWinSockServer::CloseCommHandle
+10:21:59.504628 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+10:21:59.504631 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+10:21:59.504659 Called Close Request Flag in CWinSockServer::CloseCommHandle
+10:21:59.504668 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+10:22:00.004282 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+10:22:00.004289 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+10:22:00.004367 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+10:22:00.004378 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+10:22:00.004389 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+10:22:00.004395 Called Close Request Flag in CWinSockServer::CloseCommHandle
+10:22:00.004401 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+10:22:00.004406 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+10:22:00.004414 Called Close Request Flag in CWinSockServer::CloseCommHandle
+10:22:00.004423 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+10:22:00.505591 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+10:22:00.505599 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+10:22:00.505692 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+10:22:00.505700 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+10:22:00.505712 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+10:22:00.505718 Called Close Request Flag in CWinSockServer::CloseCommHandle
+10:22:00.505723 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+10:22:00.505731 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+10:22:00.505735 Called Close Request Flag in CWinSockServer::CloseCommHandle
+10:22:00.505746 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+10:43:09.387334 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+10:43:09.387669 the IP Address Setting Ini file loading : Success
+10:43:09.387856 the ReceiveFromPLC_CSV.ini file loading : Success
+10:43:09.388241 Start CSV Save Process Thread
+10:43:09.388444 the GetFromAPI_CSV.ini file loading : Success
+10:43:09.388916 Start CSV Save Process Thread
+10:43:09.390112 Socket[0] Heart Beat Receive Check Process Wait
+10:43:09.392240 Initialize Queue Buffer : Disable
+10:43:09.392708 Initialize the Connect Status Callback : Enable
+10:43:09.392725 Initialize the Receive Callback : Enable
+10:43:09.392741 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+10:43:09.492413 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+10:43:09.492420 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+10:43:09.493067 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+10:43:09.493072 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+10:48:59.384292 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+10:48:59.384558 the IP Address Setting Ini file loading : Success
+10:48:59.384774 the ReceiveFromPLC_CSV.ini file loading : Success
+10:48:59.385672 Start CSV Save Process Thread
+10:48:59.385888 the GetFromAPI_CSV.ini file loading : Success
+10:48:59.387343 Start CSV Save Process Thread
+10:48:59.389400 Socket[0] Heart Beat Receive Check Process Wait
+10:48:59.391553 Initialize Queue Buffer : Disable
+10:48:59.392005 Initialize the Connect Status Callback : Enable
+10:48:59.392019 Initialize the Receive Callback : Enable
+10:48:59.392033 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+10:48:59.492938 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+10:48:59.492945 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+10:48:59.493587 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+10:48:59.493592 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+10:49:56.024455 the IP Address Setting Ini file loading : Success
+10:49:56.024614 the ReceiveFromPLC_CSV.ini file loading : Success
+10:49:56.024728 the GetFromAPI_CSV.ini file loading : Success
+10:49:56.024757 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+10:49:56.024775 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+10:49:56.024787 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+10:49:56.024814 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+10:49:56.024819 Called Close Request Flag in CWinSockServer::CloseCommHandle
+10:49:56.024825 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+10:49:56.025195 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+10:49:56.025202 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+10:49:56.025916 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+10:49:56.025922 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+10:49:56.025935 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+10:49:56.025955 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+10:49:56.025960 Called Close Request Flag in CWinSockServer::CloseCommHandle
+10:49:56.025966 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+10:49:56.026173 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+10:49:56.026178 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+10:49:56.026773 Initialize Queue Buffer : Disable
+10:49:56.026779 Initialize the Connect Status Callback : Enable
+10:49:56.026783 Initialize the Receive Callback : Enable
+10:49:58.398924 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+10:49:58.399117 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+10:49:58.400853 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+10:49:58.400959 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+10:50:40.389231 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+10:50:40.389486 the IP Address Setting Ini file loading : Success
+10:50:40.389651 the ReceiveFromPLC_CSV.ini file loading : Success
+10:50:40.390127 Start CSV Save Process Thread
+10:50:40.390336 the GetFromAPI_CSV.ini file loading : Success
+10:50:40.391007 Start CSV Save Process Thread
+10:50:40.392304 Socket[0] Heart Beat Receive Check Process Wait
+10:50:40.394329 Initialize Queue Buffer : Disable
+10:50:40.394792 Initialize the Connect Status Callback : Enable
+10:50:40.394817 Initialize the Receive Callback : Enable
+10:50:40.394839 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+10:50:40.495315 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+10:50:40.495322 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+10:50:40.495951 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+10:50:40.495957 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:02:35.889955 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:02:35.890216 the IP Address Setting Ini file loading : Success
+11:02:35.890394 the ReceiveFromPLC_CSV.ini file loading : Success
+11:02:35.890819 Start CSV Save Process Thread
+11:02:35.891056 the GetFromAPI_CSV.ini file loading : Success
+11:02:35.891760 Start CSV Save Process Thread
+11:02:35.892973 Socket[0] Heart Beat Receive Check Process Wait
+11:02:35.895113 Initialize Queue Buffer : Disable
+11:02:35.895565 Initialize the Connect Status Callback : Enable
+11:02:35.895582 Initialize the Receive Callback : Enable
+11:02:35.895598 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:02:35.994169 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:02:35.994839 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:02:35.996161 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:02:35.996282 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:03:09.385375 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:03:09.385630 the IP Address Setting Ini file loading : Success
+11:03:09.385799 the ReceiveFromPLC_CSV.ini file loading : Success
+11:03:09.386258 Start CSV Save Process Thread
+11:03:09.386447 the GetFromAPI_CSV.ini file loading : Success
+11:03:09.387133 Start CSV Save Process Thread
+11:03:09.388346 Socket[0] Heart Beat Receive Check Process Wait
+11:03:09.390368 Initialize Queue Buffer : Disable
+11:03:09.390818 Initialize the Connect Status Callback : Enable
+11:03:09.390835 Initialize the Receive Callback : Enable
+11:03:09.390851 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:03:09.490915 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:03:09.491556 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:03:09.492911 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:03:09.493033 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:06:32.395378 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:06:32.395793 the IP Address Setting Ini file loading : Success
+11:06:32.396021 the ReceiveFromPLC_CSV.ini file loading : Success
+11:06:32.396401 Start CSV Save Process Thread
+11:06:32.396629 the GetFromAPI_CSV.ini file loading : Success
+11:06:32.397158 Start CSV Save Process Thread
+11:06:32.398519 Socket[0] Heart Beat Receive Check Process Wait
+11:06:32.400698 Initialize Queue Buffer : Disable
+11:06:32.401145 Initialize the Connect Status Callback : Enable
+11:06:32.401163 Initialize the Receive Callback : Enable
+11:06:32.401179 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:06:32.501306 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:06:32.501940 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:06:32.503281 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:06:32.503392 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:07:36.908407 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:07:36.908695 the IP Address Setting Ini file loading : Success
+11:07:36.908902 the ReceiveFromPLC_CSV.ini file loading : Success
+11:07:36.909439 Start CSV Save Process Thread
+11:07:36.909663 the GetFromAPI_CSV.ini file loading : Success
+11:07:36.910290 Start CSV Save Process Thread
+11:07:36.911862 Socket[0] Heart Beat Receive Check Process Wait
+11:07:36.914843 Initialize Queue Buffer : Disable
+11:07:36.915383 Initialize the Connect Status Callback : Enable
+11:07:36.915404 Initialize the Receive Callback : Enable
+11:07:36.915425 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:07:37.014209 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:07:37.014944 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:07:37.016186 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:07:37.016309 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:09:25.397713 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:09:25.397983 the IP Address Setting Ini file loading : Success
+11:09:25.398137 the ReceiveFromPLC_CSV.ini file loading : Success
+11:09:25.398619 Start CSV Save Process Thread
+11:09:25.398845 the GetFromAPI_CSV.ini file loading : Success
+11:09:25.399498 Start CSV Save Process Thread
+11:09:25.400846 Socket[0] Heart Beat Receive Check Process Wait
+11:09:25.403516 Initialize Queue Buffer : Disable
+11:09:25.404001 Initialize the Connect Status Callback : Enable
+11:09:25.404018 Initialize the Receive Callback : Enable
+11:09:25.404034 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:09:25.502328 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:09:25.502967 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:09:25.504315 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:09:25.504414 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:10:04.901559 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:10:04.901813 the IP Address Setting Ini file loading : Success
+11:10:04.901989 the ReceiveFromPLC_CSV.ini file loading : Success
+11:10:04.902503 Start CSV Save Process Thread
+11:10:04.902707 the GetFromAPI_CSV.ini file loading : Success
+11:10:04.903541 Start CSV Save Process Thread
+11:10:04.904783 Socket[0] Heart Beat Receive Check Process Wait
+11:10:04.906916 Initialize Queue Buffer : Disable
+11:10:04.907381 Initialize the Connect Status Callback : Enable
+11:10:04.907399 Initialize the Receive Callback : Enable
+11:10:04.907416 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:10:05.006282 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:10:05.006942 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:10:05.007248 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:10:05.007357 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:10:25.652863 the IP Address Setting Ini file loading : Success
+11:10:25.652976 the ReceiveFromPLC_CSV.ini file loading : Success
+11:10:25.653087 the GetFromAPI_CSV.ini file loading : Success
+11:10:25.653110 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:10:25.653139 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:10:25.653161 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+11:10:25.653189 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:10:25.653195 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:10:25.653205 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+11:10:25.653603 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:10:25.653608 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:10:25.654285 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:10:25.654293 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:10:25.654305 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+11:10:25.654352 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:10:25.654356 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:10:25.654362 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+11:10:25.654549 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:10:25.654554 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:11:29.900783 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:11:29.901264 the IP Address Setting Ini file loading : Success
+11:11:29.901441 the ReceiveFromPLC_CSV.ini file loading : Success
+11:11:29.902048 Start CSV Save Process Thread
+11:11:29.902279 the GetFromAPI_CSV.ini file loading : Success
+11:11:29.902955 Start CSV Save Process Thread
+11:11:29.904122 Socket[0] Heart Beat Receive Check Process Wait
+11:11:29.906451 Initialize Queue Buffer : Disable
+11:11:29.906909 Initialize the Connect Status Callback : Enable
+11:11:29.906923 Initialize the Receive Callback : Enable
+11:11:29.906940 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:11:30.006069 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:11:30.006707 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:11:30.008057 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:11:30.008163 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:11:42.428645 the IP Address Setting Ini file loading : Success
+11:11:42.428775 the ReceiveFromPLC_CSV.ini file loading : Success
+11:11:42.428868 the GetFromAPI_CSV.ini file loading : Success
+11:11:42.428889 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:11:42.428914 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:11:42.428932 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+11:11:42.428961 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:11:42.428968 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:11:42.428977 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+11:11:42.429371 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:11:42.429376 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:11:42.430064 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:11:42.430072 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:11:42.430084 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+11:11:42.430105 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:11:42.430110 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:11:42.430116 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+11:11:42.430293 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:11:42.430297 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:11:42.430883 Initialize Queue Buffer : Disable
+11:11:42.430887 Initialize the Connect Status Callback : Enable
+11:11:42.430891 Initialize the Receive Callback : Enable
+11:11:43.907124 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:11:43.907290 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:11:43.907986 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:11:43.908101 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:12:04.864344 the IP Address Setting Ini file loading : Success
+11:12:04.864457 the ReceiveFromPLC_CSV.ini file loading : Success
+11:12:04.864537 the GetFromAPI_CSV.ini file loading : Success
+11:12:04.864560 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:12:04.864573 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:12:04.864590 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+11:12:04.864618 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:04.864624 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:12:04.864633 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+11:12:04.864994 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:12:04.865000 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:04.865730 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:12:04.865738 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:12:04.865750 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+11:12:04.865770 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:04.865774 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:12:04.865781 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+11:12:04.865959 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:12:04.865963 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:29.396120 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:12:29.396378 the IP Address Setting Ini file loading : Success
+11:12:29.396521 the ReceiveFromPLC_CSV.ini file loading : Success
+11:12:29.396953 Start CSV Save Process Thread
+11:12:29.397164 the GetFromAPI_CSV.ini file loading : Success
+11:12:29.397746 Start CSV Save Process Thread
+11:12:29.398959 Socket[0] Heart Beat Receive Check Process Wait
+11:12:29.401061 Initialize Queue Buffer : Disable
+11:12:29.401594 Initialize the Connect Status Callback : Enable
+11:12:29.401611 Initialize the Receive Callback : Enable
+11:12:29.401628 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:12:29.501587 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:12:29.502245 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:12:29.503590 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:12:29.503715 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:12:35.389565 the IP Address Setting Ini file loading : Success
+11:12:35.389687 the ReceiveFromPLC_CSV.ini file loading : Success
+11:12:35.389776 the GetFromAPI_CSV.ini file loading : Success
+11:12:35.389797 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:12:35.389818 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:12:35.389831 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+11:12:35.389857 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:35.389861 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:12:35.389868 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+11:12:35.390256 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:12:35.390260 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:35.391054 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:12:35.391063 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:12:35.391076 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+11:12:35.391097 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:35.391101 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:12:35.391107 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+11:12:35.391289 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:12:35.391295 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:35.391895 Initialize Queue Buffer : Disable
+11:12:35.391901 Initialize the Connect Status Callback : Enable
+11:12:35.391905 Initialize the Receive Callback : Enable
+11:12:35.492281 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:12:35.492294 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:12:35.492470 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:12:35.492476 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:12:43.325764 the IP Address Setting Ini file loading : Success
+11:12:43.325933 the ReceiveFromPLC_CSV.ini file loading : Success
+11:12:43.326068 the GetFromAPI_CSV.ini file loading : Success
+11:12:43.326096 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:12:43.326104 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:12:43.326121 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+11:12:43.326148 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:43.326155 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:12:43.326164 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+11:12:43.326537 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:12:43.326543 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:43.327219 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:12:43.327228 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:12:43.327240 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+11:12:43.327260 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:12:43.327265 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:12:43.327271 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+11:12:43.327461 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:12:43.327465 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:13:05.898713 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:13:05.899000 the IP Address Setting Ini file loading : Success
+11:13:05.899212 the ReceiveFromPLC_CSV.ini file loading : Success
+11:13:05.899613 Start CSV Save Process Thread
+11:13:05.900006 the GetFromAPI_CSV.ini file loading : Success
+11:13:05.900673 Start CSV Save Process Thread
+11:13:05.902767 Socket[0] Heart Beat Receive Check Process Wait
+11:13:05.904950 Initialize Queue Buffer : Disable
+11:13:05.905425 Initialize the Connect Status Callback : Enable
+11:13:05.905442 Initialize the Receive Callback : Enable
+11:13:05.905458 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:13:06.005025 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:13:06.005039 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:13:06.005707 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:13:06.005712 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:13:18.038809 the IP Address Setting Ini file loading : Success
+11:13:18.038922 the ReceiveFromPLC_CSV.ini file loading : Success
+11:13:18.039010 the GetFromAPI_CSV.ini file loading : Success
+11:13:18.039032 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:13:18.039058 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:13:18.039080 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+11:13:18.039108 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:13:18.039115 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:13:18.039124 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+11:13:18.039515 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:13:18.039519 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:13:18.040189 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:13:18.040199 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:13:18.040216 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+11:13:18.040240 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:13:18.040247 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:13:18.040256 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+11:13:18.040450 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:13:18.040456 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:13:18.041037 Initialize Queue Buffer : Disable
+11:13:18.041042 Initialize the Connect Status Callback : Enable
+11:13:18.041046 Initialize the Receive Callback : Enable
+11:14:37.393106 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:14:37.393369 the IP Address Setting Ini file loading : Success
+11:14:37.393553 the ReceiveFromPLC_CSV.ini file loading : Success
+11:14:37.394067 Start CSV Save Process Thread
+11:14:37.394321 the GetFromAPI_CSV.ini file loading : Success
+11:14:37.395135 Start CSV Save Process Thread
+11:14:37.396814 Socket[0] Heart Beat Receive Check Process Wait
+11:14:37.399451 Initialize Queue Buffer : Disable
+11:14:37.399958 Initialize the Connect Status Callback : Enable
+11:14:37.399978 Initialize the Receive Callback : Enable
+11:14:37.399997 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:14:37.500521 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:14:37.500530 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:14:37.501176 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:14:37.501181 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:14:44.039107 the IP Address Setting Ini file loading : Success
+11:14:44.039232 the ReceiveFromPLC_CSV.ini file loading : Success
+11:14:44.039335 the GetFromAPI_CSV.ini file loading : Success
+11:14:44.039358 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:14:44.039379 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:14:44.039392 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+11:14:44.039419 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:14:44.039428 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:14:44.039434 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+11:14:44.039869 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:14:44.039875 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:14:44.040662 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:14:44.040670 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:14:44.040682 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+11:14:44.040707 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:14:44.040712 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:14:44.040719 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+11:14:44.040914 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:14:44.040919 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:14:44.041613 Initialize Queue Buffer : Disable
+11:14:44.041620 Initialize the Connect Status Callback : Enable
+11:14:44.041626 Initialize the Receive Callback : Enable
+11:14:44.141914 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:14:44.141921 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:14:44.142104 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:14:44.142114 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:14:59.585527 the IP Address Setting Ini file loading : Success
+11:14:59.585635 the ReceiveFromPLC_CSV.ini file loading : Success
+11:14:59.585720 the GetFromAPI_CSV.ini file loading : Success
+11:14:59.585743 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:14:59.585756 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:14:59.585773 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+11:14:59.585802 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:14:59.585809 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:14:59.585820 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+11:14:59.586232 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:14:59.586237 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:14:59.586921 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:14:59.586927 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:14:59.586940 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+11:14:59.586961 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:14:59.586966 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:14:59.586972 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+11:14:59.587139 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:14:59.587143 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:16:24.992875 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:16:24.993074 the IP Address Setting Ini file loading : Success
+11:16:24.993246 the ReceiveFromPLC_CSV.ini file loading : Success
+11:16:24.993645 Start CSV Save Process Thread
+11:16:24.993751 the GetFromAPI_CSV.ini file loading : Success
+11:16:24.994136 Start CSV Save Process Thread
+11:16:24.994921 Socket[0] Heart Beat Receive Check Process Wait
+11:16:24.996309 Initialize Queue Buffer : Disable
+11:16:24.996647 Initialize the Connect Status Callback : Enable
+11:16:24.996654 Initialize the Receive Callback : Enable
+11:16:24.996665 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:16:25.097235 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:16:25.097243 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:16:25.097896 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:16:25.097901 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:16:45.222458 the IP Address Setting Ini file loading : Success
+11:16:45.222578 the ReceiveFromPLC_CSV.ini file loading : Success
+11:16:45.222671 the GetFromAPI_CSV.ini file loading : Success
+11:16:45.222698 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:16:45.222717 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:16:45.222729 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+11:16:45.222752 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:16:45.222757 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:16:45.222765 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+11:16:45.223470 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:16:45.223474 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:16:45.224612 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:16:45.224621 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:16:45.224636 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+11:16:45.224663 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:16:45.224669 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:16:45.224676 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+11:16:45.224889 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:16:45.224895 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:16:45.225610 Initialize Queue Buffer : Disable
+11:16:45.225616 Initialize the Connect Status Callback : Enable
+11:16:45.225620 Initialize the Receive Callback : Enable
+11:18:22.394502 >>>>>>>> Initialized c:\Project\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.12_딥러닝 초기화관련 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+11:18:22.394752 the IP Address Setting Ini file loading : Success
+11:18:22.394947 the ReceiveFromPLC_CSV.ini file loading : Success
+11:18:22.395399 Start CSV Save Process Thread
+11:18:22.395733 the GetFromAPI_CSV.ini file loading : Success
+11:18:22.396293 Start CSV Save Process Thread
+11:18:22.397465 Socket[0] Heart Beat Receive Check Process Wait
+11:18:22.399506 Initialize Queue Buffer : Disable
+11:18:22.399939 Initialize the Connect Status Callback : Enable
+11:18:22.399956 Initialize the Receive Callback : Enable
+11:18:22.399972 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+11:18:22.498611 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+11:18:22.499257 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+11:18:22.500601 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+11:18:22.500722 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+11:19:01.488638 the IP Address Setting Ini file loading : Success
+11:19:01.488768 the ReceiveFromPLC_CSV.ini file loading : Success
+11:19:01.488861 the GetFromAPI_CSV.ini file loading : Success
+11:19:01.488882 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:19:01.488907 Error[[127.0.0.1:5401] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:19:01.488924 Socket[0], [127.0.0.1:5401]Socket Connect Failed[4:0]
+11:19:01.488952 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:19:01.488959 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:19:01.488968 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+11:19:01.489372 Socket[0], [127.0.0.1:5401]Socket Connect Terminated[6:0]
+11:19:01.489376 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:19:01.490074 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:19:01.490081 Error[[127.0.0.1:5201] Listen IsHappened, E-Code(-1, Socket Error.)] in AcceptWinSockHandle
+11:19:01.490094 Socket[1], [127.0.0.1:5201]Socket Connect Failed[4:0]
+11:19:01.490112 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+11:19:01.490116 Called Close Request Flag in CWinSockServer::CloseCommHandle
+11:19:01.490124 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+11:19:01.490303 Socket[1], [127.0.0.1:5201]Socket Connect Terminated[6:0]
+11:19:01.490307 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket

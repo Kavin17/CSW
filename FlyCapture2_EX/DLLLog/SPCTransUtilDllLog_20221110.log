@@ -1,0 +1,15 @@
+13:25:38.200613 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.8_overlay 경로 수정\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+13:25:38.205508 the IP Address Setting Ini file loading : Success
+13:25:38.209887 the ReceiveFromPLC_CSV.ini file loading : Success
+13:25:38.211288 Start CSV Save Process Thread
+13:25:38.215843 the GetFromAPI_CSV.ini file loading : Success
+13:25:38.217218 Start CSV Save Process Thread
+13:25:38.219517 Socket[0] Heart Beat Receive Check Process Wait
+13:25:38.224868 Initialize Queue Buffer : Disable
+13:25:38.226243 Initialize the Connect Status Callback : Enable
+13:25:38.226277 Initialize the Receive Callback : Enable
+13:25:38.226318 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+13:25:38.324428 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+13:25:38.326385 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+13:25:38.327304 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+13:25:38.327312 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]

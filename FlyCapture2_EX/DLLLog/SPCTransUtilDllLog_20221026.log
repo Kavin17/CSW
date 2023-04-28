@@ -1,0 +1,687 @@
+16:47:50.555787 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+16:47:50.557076 the IP Address Setting Ini file loading : Success
+16:47:50.558050 the ReceiveFromPLC_CSV.ini file loading : Success
+16:47:50.559217 Start CSV Save Process Thread
+16:47:50.563049 the GetFromAPI_CSV.ini file loading : Success
+16:47:50.564781 Start CSV Save Process Thread
+16:47:50.567311 Socket[0] Heart Beat Receive Check Process Wait
+16:47:50.571303 Initialize Queue Buffer : Disable
+16:47:50.572248 Initialize the Connect Status Callback : Enable
+16:47:50.572287 Initialize the Receive Callback : Enable
+16:47:50.572309 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+16:47:50.671324 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+16:47:51.649439 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+16:47:51.649887 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:47:51.649920 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:47:51.649927 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:47:51.649940 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+16:47:51.650161 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+16:47:52.668684 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+16:47:52.669040 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:47:52.669128 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:47:52.669139 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:47:52.669160 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+16:47:53.168866 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+16:47:53.169003 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:47:53.169049 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:47:53.169058 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:47:53.169072 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+16:48:29.374204 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+16:48:29.374400 the IP Address Setting Ini file loading : Success
+16:48:29.374550 the ReceiveFromPLC_CSV.ini file loading : Success
+16:48:29.375412 Start CSV Save Process Thread
+16:48:29.375618 the GetFromAPI_CSV.ini file loading : Success
+16:48:29.376505 Start CSV Save Process Thread
+16:48:29.379382 Socket[0] Heart Beat Receive Check Process Wait
+16:48:29.383530 Initialize Queue Buffer : Disable
+16:48:29.384635 Initialize the Connect Status Callback : Enable
+16:48:29.384668 Initialize the Receive Callback : Enable
+16:48:29.384696 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+16:48:29.483636 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+16:48:30.250741 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+16:48:30.251486 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:48:30.251525 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:48:30.251531 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:48:30.251571 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+16:48:30.251743 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+16:48:31.261063 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+16:48:31.261177 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:48:31.261278 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:48:31.261290 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:48:31.261306 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+16:48:31.761355 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+16:48:31.761437 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:48:31.761459 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:48:31.761469 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:48:31.761481 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+16:52:42.369110 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+16:52:42.369424 the IP Address Setting Ini file loading : Success
+16:52:42.369613 the ReceiveFromPLC_CSV.ini file loading : Success
+16:52:42.370451 Start CSV Save Process Thread
+16:52:42.370729 the GetFromAPI_CSV.ini file loading : Success
+16:52:42.371626 Start CSV Save Process Thread
+16:52:42.373758 Socket[0] Heart Beat Receive Check Process Wait
+16:52:42.377388 Initialize Queue Buffer : Disable
+16:52:42.378275 Initialize the Connect Status Callback : Enable
+16:52:42.378302 Initialize the Receive Callback : Enable
+16:52:42.378323 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+16:52:42.478548 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+16:52:42.478559 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+16:52:48.885068 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:52:48.885105 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:52:48.885111 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:52:48.885119 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+16:52:50.259896 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+16:52:50.759726 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+16:52:50.912942 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:52:50.912992 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:52:50.913004 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:52:50.913024 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+16:52:51.719300 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+16:52:52.330534 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:52:52.330650 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:52:52.330663 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:52:52.330683 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+16:53:08.372088 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+16:53:08.372423 the IP Address Setting Ini file loading : Success
+16:53:08.372616 the ReceiveFromPLC_CSV.ini file loading : Success
+16:53:08.373385 Start CSV Save Process Thread
+16:53:08.373679 the GetFromAPI_CSV.ini file loading : Success
+16:53:08.374734 Start CSV Save Process Thread
+16:53:08.377046 Socket[0] Heart Beat Receive Check Process Wait
+16:53:08.381261 Initialize Queue Buffer : Disable
+16:53:08.382317 Initialize the Connect Status Callback : Enable
+16:53:08.382345 Initialize the Receive Callback : Enable
+16:53:08.382395 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+16:53:08.481380 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+16:53:11.045622 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+16:53:11.046803 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:53:11.046831 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:53:11.046835 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:53:11.046843 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+16:53:11.047039 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+16:53:11.546698 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+16:53:11.546823 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:53:11.546895 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:53:11.546905 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:53:11.546920 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+16:53:12.046993 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+16:53:12.047117 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+16:53:12.047150 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+16:53:12.047158 Called Close Request Flag in CWinSockServer::CloseCommHandle
+16:53:12.047173 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+16:53:41.402866 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+16:53:41.403193 the IP Address Setting Ini file loading : Success
+16:53:41.403387 the ReceiveFromPLC_CSV.ini file loading : Success
+16:53:41.404139 Start CSV Save Process Thread
+16:53:41.404453 the GetFromAPI_CSV.ini file loading : Success
+16:53:41.405457 Start CSV Save Process Thread
+16:53:41.407681 Socket[0] Heart Beat Receive Check Process Wait
+16:53:41.412073 Initialize Queue Buffer : Disable
+16:53:41.412989 Initialize the Connect Status Callback : Enable
+16:53:41.413020 Initialize the Receive Callback : Enable
+16:53:41.413044 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:04:21.896506 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:04:21.896842 the IP Address Setting Ini file loading : Success
+17:04:21.897035 the ReceiveFromPLC_CSV.ini file loading : Success
+17:04:21.897910 Start CSV Save Process Thread
+17:04:21.898243 the GetFromAPI_CSV.ini file loading : Success
+17:04:21.899287 Start CSV Save Process Thread
+17:04:21.901676 Socket[0] Heart Beat Receive Check Process Wait
+17:04:21.909035 Initialize Queue Buffer : Disable
+17:04:21.910491 Initialize the Connect Status Callback : Enable
+17:04:21.910523 Initialize the Receive Callback : Enable
+17:04:21.910575 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:04:22.006601 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:04:30.597409 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:04:30.599578 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:04:30.599813 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:04:30.599896 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:04:30.599910 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:04:30.599944 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:04:30.662830 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:04:30.662871 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:04:31.099895 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:04:31.100098 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:04:31.100137 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:04:31.100146 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:04:31.100162 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:04:31.600139 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:04:31.600261 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:04:31.600295 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:04:31.600304 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:04:31.600318 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:04:37.189754 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:04:41.420531 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:04:51.439635 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:04:52.507195 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:05:00.267076 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:05:00.267112 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:05:01.655064 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:05:01.655090 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:18:51.890408 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:18:51.890695 the IP Address Setting Ini file loading : Success
+17:18:51.890924 the ReceiveFromPLC_CSV.ini file loading : Success
+17:18:51.891735 Start CSV Save Process Thread
+17:18:51.892025 the GetFromAPI_CSV.ini file loading : Success
+17:18:51.893091 Start CSV Save Process Thread
+17:18:51.895282 Socket[0] Heart Beat Receive Check Process Wait
+17:18:51.898711 Initialize Queue Buffer : Disable
+17:18:51.899664 Initialize the Connect Status Callback : Enable
+17:18:51.899687 Initialize the Receive Callback : Enable
+17:18:51.899705 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:18:51.999880 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:18:51.999914 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:18:52.001013 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:18:52.001054 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:18:52.001058 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:18:52.001067 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:18:52.001254 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:18:52.501149 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:18:52.501429 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:18:52.501502 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:18:52.501513 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:18:52.501534 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:18:53.001362 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:18:53.001505 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:18:53.001558 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:18:53.001567 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:18:53.001583 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:19:01.596962 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:19:01.596986 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:19:15.380789 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:19:15.381115 the IP Address Setting Ini file loading : Success
+17:19:15.381305 the ReceiveFromPLC_CSV.ini file loading : Success
+17:19:15.382218 Start CSV Save Process Thread
+17:19:15.382501 the GetFromAPI_CSV.ini file loading : Success
+17:19:15.383505 Start CSV Save Process Thread
+17:19:15.386495 Socket[0] Heart Beat Receive Check Process Wait
+17:19:15.390821 Initialize Queue Buffer : Disable
+17:19:15.392174 Initialize the Connect Status Callback : Enable
+17:19:15.392202 Initialize the Receive Callback : Enable
+17:19:15.392224 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:19:15.490618 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:19:15.491545 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:19:15.491586 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:19:15.491714 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:19:15.491741 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:19:15.491745 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:19:15.491752 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:19:15.506761 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:19:15.506798 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:19:15.991854 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:19:15.991944 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:19:15.991999 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:19:15.992015 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:19:15.992034 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:19:16.492153 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:19:16.492238 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:19:16.492256 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:19:16.492282 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:19:16.492295 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:19:21.198087 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:19:24.502118 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:20:08.401414 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:20:08.401787 the IP Address Setting Ini file loading : Success
+17:20:08.402008 the ReceiveFromPLC_CSV.ini file loading : Success
+17:20:08.402857 Start CSV Save Process Thread
+17:20:08.403195 the GetFromAPI_CSV.ini file loading : Success
+17:20:08.404335 Start CSV Save Process Thread
+17:20:08.406794 Socket[0] Heart Beat Receive Check Process Wait
+17:20:08.411449 Initialize Queue Buffer : Disable
+17:20:08.412496 Initialize the Connect Status Callback : Enable
+17:20:08.412528 Initialize the Receive Callback : Enable
+17:20:08.412573 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:20:08.510770 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:20:10.645876 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:20:10.646809 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:20:10.646948 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:20:10.646981 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:20:10.646984 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:20:10.646991 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:20:10.785334 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:20:10.785389 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:20:12.169203 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:20:12.169339 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:20:12.169408 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:20:12.169418 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:20:12.169433 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:20:12.669493 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:20:12.669621 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:20:12.669699 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:20:12.669709 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:20:12.669725 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:20:14.928678 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:20:28.223640 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:23:44.383805 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:23:44.384140 the IP Address Setting Ini file loading : Success
+17:23:44.384370 the ReceiveFromPLC_CSV.ini file loading : Success
+17:23:44.385220 Start CSV Save Process Thread
+17:23:44.385521 the GetFromAPI_CSV.ini file loading : Success
+17:23:44.386523 Start CSV Save Process Thread
+17:23:44.388730 Socket[0] Heart Beat Receive Check Process Wait
+17:23:44.392280 Initialize Queue Buffer : Disable
+17:23:44.393234 Initialize the Connect Status Callback : Enable
+17:23:44.393259 Initialize the Receive Callback : Enable
+17:23:44.393280 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:23:44.492071 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:23:44.493052 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:23:44.493068 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:23:44.493180 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:23:44.493212 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:23:44.493215 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:23:44.493222 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:23:44.672618 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:23:44.672662 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:23:46.781542 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:23:46.781657 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:23:46.781689 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:23:46.781698 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:23:46.781713 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:23:47.281880 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:23:47.281998 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:23:47.282031 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:23:47.282039 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:23:47.282054 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:23:48.652314 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:23:53.179437 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:25:44.381853 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:25:44.382335 the IP Address Setting Ini file loading : Success
+17:25:44.382479 the ReceiveFromPLC_CSV.ini file loading : Success
+17:25:44.383264 Start CSV Save Process Thread
+17:25:44.383542 the GetFromAPI_CSV.ini file loading : Success
+17:25:44.384786 Start CSV Save Process Thread
+17:25:44.387295 Socket[0] Heart Beat Receive Check Process Wait
+17:25:44.391141 Initialize Queue Buffer : Disable
+17:25:44.392123 Initialize the Connect Status Callback : Enable
+17:25:44.392155 Initialize the Receive Callback : Enable
+17:25:44.392179 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:25:44.491080 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:25:44.492103 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:25:44.493014 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:25:44.493138 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:25:44.493159 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:25:44.493163 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:25:44.493170 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:25:44.573991 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:25:44.574040 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:25:46.479689 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:25:46.479897 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:25:46.479957 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:25:46.479970 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:25:46.479990 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:25:46.979994 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:25:46.980182 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:25:46.980229 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:25:46.980241 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:25:46.980260 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:25:48.735794 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:25:51.841799 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:26:39.880181 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:26:39.880515 the IP Address Setting Ini file loading : Success
+17:26:39.880715 the ReceiveFromPLC_CSV.ini file loading : Success
+17:26:39.881777 Start CSV Save Process Thread
+17:26:39.882053 the GetFromAPI_CSV.ini file loading : Success
+17:26:39.883165 Start CSV Save Process Thread
+17:26:39.885383 Socket[0] Heart Beat Receive Check Process Wait
+17:26:39.889155 Initialize Queue Buffer : Disable
+17:26:39.890149 Initialize the Connect Status Callback : Enable
+17:26:39.890181 Initialize the Receive Callback : Enable
+17:26:39.890197 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:26:39.989317 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:26:39.990288 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:26:39.990393 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:26:39.990448 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:26:39.990490 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:26:39.990494 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:26:39.990502 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:26:40.147504 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:26:40.147569 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:26:41.508782 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:26:41.508907 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:26:41.508971 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:26:41.508980 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:26:41.508995 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:26:42.009058 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:26:42.009148 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:26:42.009169 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:26:42.009172 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:26:42.009179 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:26:44.888782 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:26:47.919153 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:32:03.889878 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:32:03.890972 the IP Address Setting Ini file loading : Success
+17:32:03.891425 the ReceiveFromPLC_CSV.ini file loading : Success
+17:32:03.892446 Start CSV Save Process Thread
+17:32:03.892817 the GetFromAPI_CSV.ini file loading : Success
+17:32:03.893976 Start CSV Save Process Thread
+17:32:03.896368 Socket[0] Heart Beat Receive Check Process Wait
+17:32:03.900793 Initialize Queue Buffer : Disable
+17:32:03.901722 Initialize the Connect Status Callback : Enable
+17:32:03.901755 Initialize the Receive Callback : Enable
+17:32:03.901787 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:32:04.000942 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:32:04.001880 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:32:04.002411 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:32:04.002458 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:32:04.002466 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:32:04.002496 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:32:04.002602 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:32:04.155017 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:32:04.155057 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:32:08.018525 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:32:08.478636 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:32:08.826013 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:32:08.826098 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:32:08.826121 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:32:08.826125 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:32:08.826132 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:32:09.326347 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:32:09.326510 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:32:09.326556 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:32:09.326567 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:32:09.326588 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:32:48.420604 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:32:48.420946 the IP Address Setting Ini file loading : Success
+17:32:48.421147 the ReceiveFromPLC_CSV.ini file loading : Success
+17:32:48.424223 Start CSV Save Process Thread
+17:32:48.424639 the GetFromAPI_CSV.ini file loading : Success
+17:32:48.426363 Start CSV Save Process Thread
+17:32:48.432316 Socket[0] Heart Beat Receive Check Process Wait
+17:32:48.438742 Initialize Queue Buffer : Disable
+17:32:48.440356 Initialize the Connect Status Callback : Enable
+17:32:48.440389 Initialize the Receive Callback : Enable
+17:32:48.440436 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:32:48.537141 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:32:48.538574 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:32:48.540041 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:32:48.540208 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:32:48.540256 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:32:48.540264 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:32:48.540275 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:32:48.631504 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:32:48.631530 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:32:50.774842 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:32:50.774997 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:32:50.775087 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:32:50.775100 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:32:50.775123 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:32:51.275110 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:32:51.275232 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:32:51.275266 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:32:51.275274 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:32:51.275289 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:33:40.889302 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:33:40.889616 the IP Address Setting Ini file loading : Success
+17:33:40.889799 the ReceiveFromPLC_CSV.ini file loading : Success
+17:33:40.890711 Start CSV Save Process Thread
+17:33:40.891028 the GetFromAPI_CSV.ini file loading : Success
+17:33:40.892106 Start CSV Save Process Thread
+17:33:40.894832 Socket[0] Heart Beat Receive Check Process Wait
+17:33:40.898969 Initialize Queue Buffer : Disable
+17:33:40.899920 Initialize the Connect Status Callback : Enable
+17:33:40.899946 Initialize the Receive Callback : Enable
+17:33:40.899966 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:33:40.998352 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:33:40.999374 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:33:41.000289 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:33:41.000414 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:33:41.000436 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:33:41.000440 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:33:41.000448 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:33:41.018641 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:33:41.018664 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:33:41.911959 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:33:41.912092 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:33:41.912131 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:33:41.912139 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:33:41.912154 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:33:42.412234 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:33:42.412321 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:33:42.412355 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:33:42.412360 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:33:42.412366 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:33:43.958971 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:34:03.214175 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:35:33.880969 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:35:33.881274 the IP Address Setting Ini file loading : Success
+17:35:33.881459 the ReceiveFromPLC_CSV.ini file loading : Success
+17:35:33.882437 Start CSV Save Process Thread
+17:35:33.882720 the GetFromAPI_CSV.ini file loading : Success
+17:35:33.883723 Start CSV Save Process Thread
+17:35:33.886008 Socket[0] Heart Beat Receive Check Process Wait
+17:35:33.889504 Initialize Queue Buffer : Disable
+17:35:33.890491 Initialize the Connect Status Callback : Enable
+17:35:33.890514 Initialize the Receive Callback : Enable
+17:35:33.890532 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:35:33.988073 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:35:33.988835 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:35:33.988878 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:35:33.988884 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:35:33.988892 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+17:35:33.990013 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:35:33.990135 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:35:33.990157 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:35:33.990162 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:35:33.990170 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:35:34.488442 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:35:34.488680 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:35:34.488730 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:35:34.488743 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:35:34.488762 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+17:35:34.490288 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:35:34.490383 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:35:34.490405 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:35:34.490409 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:35:34.490416 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:35:34.988685 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:35:34.988861 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:35:34.988911 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:35:34.988923 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:35:34.988944 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+17:35:34.990585 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:35:34.990674 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:35:34.990700 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:35:34.990707 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:35:34.990714 Socket[1], [127.0.0.1:5201]Socket Connect Closed[7:0]
+17:36:15.878074 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:36:15.878469 the IP Address Setting Ini file loading : Success
+17:36:15.878648 the ReceiveFromPLC_CSV.ini file loading : Success
+17:36:15.879502 Start CSV Save Process Thread
+17:36:15.879734 the GetFromAPI_CSV.ini file loading : Success
+17:36:15.880771 Start CSV Save Process Thread
+17:36:15.883061 Socket[0] Heart Beat Receive Check Process Wait
+17:36:15.886616 Initialize Queue Buffer : Disable
+17:36:15.887430 Initialize the Connect Status Callback : Enable
+17:36:15.887456 Initialize the Receive Callback : Enable
+17:36:15.887474 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:36:15.986497 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:36:15.987236 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:36:15.987267 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:36:15.987272 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:36:15.987299 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+17:36:15.987424 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:36:15.987753 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+17:36:16.486756 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:36:16.486866 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:36:16.486892 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:36:16.486895 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:36:16.486902 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+17:36:16.987039 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:36:16.987132 Error[Socket Bind E-Code(10048, The specified address is already in use.)] in CreateWinSockHandle
+17:36:16.987152 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+17:36:16.987157 Called Close Request Flag in CWinSockServer::CloseCommHandle
+17:36:16.987164 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+17:36:59.386470 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:36:59.386920 the IP Address Setting Ini file loading : Success
+17:36:59.387162 the ReceiveFromPLC_CSV.ini file loading : Success
+17:36:59.388384 Start CSV Save Process Thread
+17:36:59.388741 the GetFromAPI_CSV.ini file loading : Success
+17:36:59.389895 Start CSV Save Process Thread
+17:36:59.392507 Socket[0] Heart Beat Receive Check Process Wait
+17:36:59.396433 Initialize Queue Buffer : Disable
+17:36:59.397458 Initialize the Connect Status Callback : Enable
+17:36:59.397494 Initialize the Receive Callback : Enable
+17:36:59.397540 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:36:59.495300 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:36:59.496719 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:36:59.497239 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:36:59.497709 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+17:36:59.666026 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:36:59.666063 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:37:17.749208 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:37:19.123847 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:38:10.691399 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:39:13.686638 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+17:45:46.406996 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:45:46.407323 the IP Address Setting Ini file loading : Success
+17:45:46.407519 the ReceiveFromPLC_CSV.ini file loading : Success
+17:45:46.408355 Start CSV Save Process Thread
+17:45:46.408687 the GetFromAPI_CSV.ini file loading : Success
+17:45:46.409884 Start CSV Save Process Thread
+17:45:46.412151 Socket[0] Heart Beat Receive Check Process Wait
+17:45:46.416152 Initialize Queue Buffer : Disable
+17:45:46.417243 Initialize the Connect Status Callback : Enable
+17:45:46.417282 Initialize the Receive Callback : Enable
+17:45:46.417314 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:45:46.515964 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:45:46.517014 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:45:46.517659 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+17:45:46.517669 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:45:46.587090 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:45:46.587128 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:46:11.887914 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:46:11.888225 the IP Address Setting Ini file loading : Success
+17:46:11.888419 the ReceiveFromPLC_CSV.ini file loading : Success
+17:46:11.889396 Start CSV Save Process Thread
+17:46:11.889721 the GetFromAPI_CSV.ini file loading : Success
+17:46:11.890949 Start CSV Save Process Thread
+17:46:11.893291 Socket[0] Heart Beat Receive Check Process Wait
+17:46:11.897040 Initialize Queue Buffer : Disable
+17:46:11.898090 Initialize the Connect Status Callback : Enable
+17:46:11.898115 Initialize the Receive Callback : Enable
+17:46:11.898150 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:46:11.997199 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:46:11.998286 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:46:11.998572 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:46:11.998610 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+17:46:12.032896 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:46:12.032921 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:46:51.367820 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+17:46:51.368068 the IP Address Setting Ini file loading : Success
+17:46:51.368235 the ReceiveFromPLC_CSV.ini file loading : Success
+17:46:51.369077 Start CSV Save Process Thread
+17:46:51.369256 the GetFromAPI_CSV.ini file loading : Success
+17:46:51.370057 Start CSV Save Process Thread
+17:46:51.372411 Socket[0] Heart Beat Receive Check Process Wait
+17:46:51.376106 Initialize Queue Buffer : Disable
+17:46:51.376964 Initialize the Connect Status Callback : Enable
+17:46:51.376990 Initialize the Receive Callback : Enable
+17:46:51.377011 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+17:46:51.476326 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+17:46:51.477311 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+17:46:51.477471 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+17:46:51.477804 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+17:46:51.533586 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+17:46:51.533609 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+17:46:53.840554 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+17:46:56.143461 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+18:08:27.886678 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+18:08:27.886989 the IP Address Setting Ini file loading : Success
+18:08:27.887174 the ReceiveFromPLC_CSV.ini file loading : Success
+18:08:27.887997 Start CSV Save Process Thread
+18:08:27.888281 the GetFromAPI_CSV.ini file loading : Success
+18:08:27.889442 Start CSV Save Process Thread
+18:08:27.891700 Socket[0] Heart Beat Receive Check Process Wait
+18:08:27.895353 Initialize Queue Buffer : Disable
+18:08:27.896328 Initialize the Connect Status Callback : Enable
+18:08:27.896353 Initialize the Receive Callback : Enable
+18:08:27.896373 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+18:08:27.993842 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+18:08:27.995224 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+18:08:27.995750 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+18:08:27.996049 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+18:08:28.041413 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+18:08:28.041451 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+18:08:34.190662 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+18:08:54.956204 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+18:08:54.956496 the IP Address Setting Ini file loading : Success
+18:08:54.956658 the ReceiveFromPLC_CSV.ini file loading : Success
+18:08:54.957581 Start CSV Save Process Thread
+18:08:54.957826 the GetFromAPI_CSV.ini file loading : Success
+18:08:54.958907 Start CSV Save Process Thread
+18:08:54.960993 Socket[0] Heart Beat Receive Check Process Wait
+18:08:54.964498 Initialize Queue Buffer : Disable
+18:08:54.965698 Initialize the Connect Status Callback : Enable
+18:08:54.965718 Initialize the Receive Callback : Enable
+18:08:54.965753 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+18:08:55.065420 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+18:08:55.066495 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+18:08:55.067192 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+18:08:55.067207 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+18:08:55.116993 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+18:08:55.117017 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+18:08:58.918701 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+18:09:52.397725 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+18:09:52.398029 the IP Address Setting Ini file loading : Success
+18:09:52.398194 the ReceiveFromPLC_CSV.ini file loading : Success
+18:09:52.399036 Start CSV Save Process Thread
+18:09:52.399367 the GetFromAPI_CSV.ini file loading : Success
+18:09:52.400598 Start CSV Save Process Thread
+18:09:52.402790 Socket[0] Heart Beat Receive Check Process Wait
+18:09:52.406464 Initialize Queue Buffer : Disable
+18:09:52.407345 Initialize the Connect Status Callback : Enable
+18:09:52.407369 Initialize the Receive Callback : Enable
+18:09:52.407389 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+18:09:52.507551 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+18:09:52.507561 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+18:09:52.509066 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+18:09:52.509143 Socket[0], [127.0.0.1:5401]Socket Ready[2:0]
+18:09:52.688328 Called Close Request Flag in CWinSockHandlerCtrl::LitenWinSockHandle
+18:09:52.688378 Socket[0], [127.0.0.1:5401]Socket Connected[3:0]
+18:09:53.511853 API<-PLC : MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0[100]
+18:21:41.398071 Socket[0] End Call Back Function, MsgL=21,PLC/PCReq=0,DType=0,ProVer=2,CellNum=1,LotID=lotid_1234,CellID_1=CellID_1_0,BitModeValue=0, [100]
+18:31:32.883706 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+18:31:32.884041 the IP Address Setting Ini file loading : Success
+18:31:32.884243 the ReceiveFromPLC_CSV.ini file loading : Success
+18:31:32.885232 Start CSV Save Process Thread
+18:31:32.885512 the GetFromAPI_CSV.ini file loading : Success
+18:31:32.886580 Start CSV Save Process Thread
+18:31:32.889018 Socket[0] Heart Beat Receive Check Process Wait
+18:31:32.893024 Initialize Queue Buffer : Disable
+18:36:32.893229 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+18:36:32.894058 the IP Address Setting Ini file loading : Success
+18:36:32.894262 the ReceiveFromPLC_CSV.ini file loading : Success
+18:36:32.895355 Start CSV Save Process Thread
+18:36:32.895649 the GetFromAPI_CSV.ini file loading : Success
+18:36:32.896684 Start CSV Save Process Thread
+18:36:32.898935 Socket[0] Heart Beat Receive Check Process Wait
+18:36:32.902581 Initialize Queue Buffer : Disable
+18:36:32.903502 Initialize the Connect Status Callback : Enable
+18:36:32.903527 Initialize the Receive Callback : Enable
+18:36:32.903547 Warning[Disabled Receive Queue Buffer] in GetReceiveMessageInQueueBuffer
+18:42:41.506309 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+18:42:41.507020 Error[Socket Bind E-Code(10013, Etc Connect error: 10013)] in CreateWinSockHandle
+18:42:41.507047 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+18:42:41.507053 Called Close Request Flag in CWinSockServer::CloseCommHandle
+18:42:41.507061 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+18:42:41.507259 Socket[1], [127.0.0.1:5201]Create Socket[1:0]
+18:42:41.507589 Socket[1], [127.0.0.1:5201]Socket Ready[2:0]
+18:42:42.006593 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+18:42:42.006684 Error[Socket Bind E-Code(10013, Etc Connect error: 10013)] in CreateWinSockHandle
+18:42:42.006705 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+18:42:42.006711 Called Close Request Flag in CWinSockServer::CloseCommHandle
+18:42:42.006719 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+18:42:42.506854 Socket[0], [127.0.0.1:5401]Create Socket[1:0]
+18:42:42.506944 Error[Socket Bind E-Code(10013, Etc Connect error: 10013)] in CreateWinSockHandle
+18:42:42.506967 Called Close Request Flag in CWinSockServer::SubDeleteListenSocket
+18:42:42.506972 Called Close Request Flag in CWinSockServer::CloseCommHandle
+18:42:42.506978 Socket[0], [127.0.0.1:5401]Socket Connect Closed[7:0]
+18:46:53.893149 >>>>>>>> Initialized c:\Project\csw\소스\API, 상위서버\통합CSW_Ver.22.4.2_221026_백업\FlyCapture2_EX\SPCTransUtilx86.dll#01 Version[1.2.0.15] <<<<<<<<
+18:46:53.893473 the IP Address Setting Ini file loading : Success
+18:46:53.893664 the ReceiveFromPLC_CSV.ini file loading : Success
+18:46:53.894523 Start CSV Save Process Thread
+18:46:53.894784 the GetFromAPI_CSV.ini file loading : Success
+18:46:53.896295 Start CSV Save Process Thread
+18:46:53.898662 Socket[0] Heart Beat Receive Check Process Wait
+18:46:53.902809 Initialize Queue Buffer : Disable
